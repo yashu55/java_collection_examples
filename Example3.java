@@ -6,12 +6,19 @@
 
 public class Example3 {
     final int MAX_VALUE;
-    
-    void myMethod() {
-        MAX_VALUE = 101;
+
+    // happy
+    // Example3(){
+    //     MAX_VALUE = 100;
+    // }
+
+    // not happy
+    // void myMethod() {
+    //     MAX_VALUE = 101;
+    // }
+
+
+    public static void main(String[] args) { 
     }
-    public static void main(String[] args) {
-        
-    }
-    
+
 }

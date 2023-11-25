@@ -10,8 +10,11 @@
 
 public class Example7 {
     public static void main(String[] args) {
+
+
         // String s = new String("Hello");
-        // int MaxValue = 100000;
+        // // String s2 = "Hi";
+        // int MaxValue = 10000000;
         // for(int i = 0; i<MaxValue; i++){
         //     s += "+Hello";
         // }
@@ -19,7 +22,7 @@ public class Example7 {
         // System.out.println("Done");
 
         StringBuilder sb = new StringBuilder("Hello");
-        int MaxValue = 10;
+        int MaxValue = 100000000;
 
         for(int i = 0; i<MaxValue; i++){
             sb.append("+Hello");

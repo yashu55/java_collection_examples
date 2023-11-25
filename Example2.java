@@ -1,4 +1,9 @@
+class Int{
+    int a;
+}
+
 public class Example2 {
+
 
     public static void main(String[] args) {
         //What is Auto boxing
