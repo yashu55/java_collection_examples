@@ -5,7 +5,7 @@
 // 3. Final Method:
 
 public class Example3 {
-    final int MAX_VALUE;
+    // final int MAX_VALUE;
 
     // happy
     // Example3(){

@@ -1,6 +1,6 @@
 // Collections with user defined objects
-class Student {
-    int rollno;
-    String name;
+// class Student {
+//     int rollno;
+//     String name;
     
-}
+// }
